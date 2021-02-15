@@ -1,0 +1,6 @@
+/Users/fefe/RiderProjects/COMICS_Singleton/COMICS_Singleton/bin/Debug/COMICS_Singleton.exe
+/Users/fefe/RiderProjects/COMICS_Singleton/COMICS_Singleton/bin/Debug/COMICS_Singleton.pdb
+/Users/fefe/RiderProjects/COMICS_Singleton/COMICS_Singleton/obj/Debug/COMICS_Singleton.csprojAssemblyReference.cache
+/Users/fefe/RiderProjects/COMICS_Singleton/COMICS_Singleton/obj/Debug/COMICS_Singleton.csproj.CoreCompileInputs.cache
+/Users/fefe/RiderProjects/COMICS_Singleton/COMICS_Singleton/obj/Debug/COMICS_Singleton.exe
+/Users/fefe/RiderProjects/COMICS_Singleton/COMICS_Singleton/obj/Debug/COMICS_Singleton.pdb
